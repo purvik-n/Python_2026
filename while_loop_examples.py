@@ -3,7 +3,7 @@ def example_basic_counting():
     count = 1
     while count <= 5:
         print(f"Count is: {count}")
-        count += 1,
+        count += 1
 
 def example_break_statement():
     print("\n--- Example 2: Break Statement ---")
