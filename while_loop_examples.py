@@ -1,4 +1,4 @@
-def example_basic_counting():;
+def example_basic_counting():
     print("--- Example 1: Basic Counting ---")
     count = 1
     while count <= 5:
