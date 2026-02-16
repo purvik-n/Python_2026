@@ -1,5 +1,7 @@
+# Day 1: Random Number Generation
 import random
 
+# Generate a random integer between 1 and 10 (inclusive)
 random_integer = random.randint(1,10)
 print(random_integer)
 
