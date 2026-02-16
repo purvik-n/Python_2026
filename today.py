@@ -3,6 +3,8 @@ import random
 
 # Generate a random integer between 1 and 10 (inclusive)
 random_integer = random.randint(1,10)
+
+# Output the random integer
 print(random_integer)
 
 random_float = random.random()
