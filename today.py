@@ -10,8 +10,12 @@ print(random_integer)
 
 # Generate a random float between 0.0 and 1.0
 random_float = random.random()
+
+# Output the random float
 print(random_float)
 
+
+# Generate a random float between 1 and 10
 random_float = random.uniform(1,10)
 print(random_float)
 
