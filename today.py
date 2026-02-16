@@ -7,6 +7,8 @@ random_integer = random.randint(1,10)
 # Output the random integer
 print(random_integer)
 
+
+# Generate a random float between 0.0 and 1.0
 random_float = random.random()
 print(random_float)
 
