@@ -24,6 +24,8 @@ print(random_float)
 
 # Generate 0 or 1 for Heads or Tails
 random_heads_or_tails = random.randint(0,1)
+
+# Output Heads or Tails based on the random number
 if random_heads_or_tails == 1:
     print("Heads")
 else:
