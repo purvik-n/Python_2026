@@ -8,3 +8,4 @@ print(total)
 # GitHub Contribution 4
 # GitHub Contribution 5
 # GitHub Contribution 6
+# GitHub Contribution 7
