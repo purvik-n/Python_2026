@@ -8,6 +8,7 @@
 
 import os # For checking if file exists
 
+# Managing student records via a class
 class StudentManager:
     def __init__(self, filename):
         self.filename = filename
@@ -39,6 +40,7 @@ class StudentManager:
 
     def add_student(self):
         """Gets user input and adds a new student."""
+        # Getting user input step
         print("\n--- Add New Student ---")
         name = input("Enter Student Name: ")
         
