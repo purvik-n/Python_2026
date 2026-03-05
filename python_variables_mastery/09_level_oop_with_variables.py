@@ -16,6 +16,7 @@ class Car:
         self.speed = 0 # Default variable
     
     def accelerate(self):
+        # Increasing speed by 10 units
         self.speed = self.speed + 10
         print(f"The {self.color} {self.brand} accelerates to {self.speed} km/h.")
 
@@ -27,6 +28,7 @@ print("--- Car Showroom ---")
 
 # 2. Creating Objects (Instances)
 # We create two different variables using the same Class blueprint
+# Instantiating the car objects
 car1 = Car("Toyota", "Corolla", "Red")
 car2 = Car("Tesla", "Model 3", "White")
 
