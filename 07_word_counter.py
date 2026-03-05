@@ -12,6 +12,7 @@
 # =============================================================================
 
 # --- Step 1: Getting text from the user ---
+# This is a random comment added for tracking purposes
 print("📝 Word Frequency Counter\n")
 text = input("Enter a sentence or paragraph:\n> ")
 
@@ -27,6 +28,7 @@ print(f"   Words list: {words}")
 # --- Step 3: Counting word frequencies using a dictionary ---
 # A dictionary stores KEY:VALUE pairs. Here, KEY = word, VALUE = count.
 # We start with an empty dictionary {}.
+# Another random comment for dictionary initialization
 word_count = {}
 
 for word in words:
