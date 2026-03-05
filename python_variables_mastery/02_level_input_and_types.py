@@ -5,6 +5,7 @@
 # Goal: Understand that input() always returns a String (text).
 # -----------------------------------------------------------------------------------
 
+# Outputting the header for user registration
 print("--- User Registration ---")
 
 # 1. Taking input
@@ -14,6 +15,7 @@ age = input("Enter your age: ")  # Even if I type a number, this will be a Strin
 
 # 2. Displaying the input
 print("\n--- Registration Complete ---")
+# Printing out the captured user details
 print("Welcome,", username)
 print("Age received:", age)
 
