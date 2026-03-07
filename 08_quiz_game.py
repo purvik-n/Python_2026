@@ -15,7 +15,7 @@
 # We use a LIST of DICTIONARIES. Each dictionary represents one question.
 # This is a powerful way to organize structured data in Python.
 quiz_questions = [
-    {
+    
         "question": "What is the output of print(type(10))?",
         "options": ["A. str", "B. int", "C. float", "D. number"],
         "answer": "b"
