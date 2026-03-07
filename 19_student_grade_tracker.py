@@ -7,7 +7,7 @@
 # - Add students and their subject marks
 # - Calculate average, highest, lowest scores
 # - Assign letter grades (A, B, C, D, F)
-# - Display a sorted leaderboard
+# - Display a sorted leadrboard
 
 def assign_grade(average):
     """
