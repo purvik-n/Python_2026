@@ -7,7 +7,7 @@
 # What this program does:
 #   - Asks the user for a start and end number
 #   - Loops through every number in that range
-#   - Checks if each number is even or odd using the modulo operator (%)
+#   - Checks if each number is even or odd using the modulo operator (%
 #   - Counts how many even and odd numbers there are
 #   - Displays a summary at the end
 # =============================================================================
