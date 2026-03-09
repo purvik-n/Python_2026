@@ -6,7 +6,7 @@
 # A simple command-line to-do list that lets users:
 # - Add tasks
 # - View all tasks with completion status
-# - Mark tasks as done
+# - Mark tasks as done'
 # - Delete tasks
 
 def display_tasks(tasks):
