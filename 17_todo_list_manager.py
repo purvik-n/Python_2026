@@ -1,6 +1,6 @@
 # ============================================================
 # Program 17: To-Do List Manager
-# Concepts: Lists, functions, enumerate, string formatting, loops
+# Concepts: Lists, functions, enumerate, string formatting, loop
 # ============================================================
 
 # A simple command-line to-do list that lets users:
