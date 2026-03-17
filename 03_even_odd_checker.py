@@ -1,7 +1,7 @@
 # 
 # =============================================================================
 # Concepts Used: for loop, range(), Modulo operator (%), Conditionals,
-#                Variables as counters
+#                Variables as countersn
 #
 # What this program does:
 #   - Asks the user for a start and end number
