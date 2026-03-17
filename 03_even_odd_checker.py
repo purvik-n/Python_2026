@@ -1,5 +1,4 @@
-# =============================================================================
-# Program 3: Even or Odd Checker with Range Analysis
+# 
 # =============================================================================
 # Concepts Used: for loop, range(), Modulo operator (%), Conditionals,
 #                Variables as counters
