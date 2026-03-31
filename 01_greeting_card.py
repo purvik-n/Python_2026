@@ -5,7 +5,7 @@
 #
 # What this program does:
 #   - Asks the user for their name, favorite color, and a hobby
-#   - Uses f-strings to create a personalized greeting card message
+#   - Uses f-strings to create a personalized greeting card messag
 #   - Demonstrates how variables store data and how we use them in strings
 # =============================================================================
 
